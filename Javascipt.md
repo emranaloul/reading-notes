@@ -40,7 +40,7 @@ It is used to join the strings on either side of it.
 * **Function**: let you group a series of statements together to perform a
 specific task
  
- **Types of function**:##
+ **Types of function**:
  1. Basic function.
  2. Declaring function.
  2. Calling function.
