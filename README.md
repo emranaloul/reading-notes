@@ -6,3 +6,4 @@
 3. [Git-Intro](https://emranaloul.github.io/reading-notes/git-intro)
 4. [Growth-mindest](https://emranaloul.github.io/reading-notes/growth-mindest)
 1. [HTML](https://emranaloul.github.io/reading-notes/HTMl)
+1. [Javascript](https://emranaloul.github.io/reading-notes/Javascript)
