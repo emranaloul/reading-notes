@@ -1,6 +1,6 @@
  * # **Javascript Introduction**
  ## SCRIPTS
- ## defenition of the script:
+ ### defenition of the script:
  * **script**: A script is a series of instructions that the computer
 can follow in order to achieve a goal.
 
