@@ -7,3 +7,4 @@
 4. [Growth-mindest](https://emranaloul.github.io/reading-notes/growth-mindest)
 1. [HTML](https://emranaloul.github.io/reading-notes/HTMl)
 1. [Javascript](https://emranaloul.github.io/reading-notes/Javascipt)
+1. [Javascript-loops](https://emranaloul.github.io/reading-notes/Javascripts.loops)
