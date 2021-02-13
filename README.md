@@ -10,3 +10,4 @@
 1. [Javascript-loops](https://emranaloul.github.io/reading-notes/Javascripts.loops)
 1. [function-js](https://emranaloul.github.io/reading-notes/function-js)
 1. [CSS-Color](https://emranaloul.github.io/reading-notes/CSS-Color)
+1. [class-01](https://emranaloul.github.io/reading-notes/class-01)
