@@ -41,7 +41,7 @@ There are two types of using CSS:
 
 **Basic Selectors Types**
 
-![selectors](/SELECTORS.PNG)
+![selectors](https://k.top4top.io/p_1871zrnsj1.png)
 
 # **Basic Javascript Instructions**
 
