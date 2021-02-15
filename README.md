@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Code 102 Reading Notes
 
 1. [Text-Editor](https://emranaloul.github.io/reading-notes/texteditor)
