@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# readmenotes
+# Code 102 Reading Notes
 
 1. [Text-Editor](https://emranaloul.github.io/reading-notes/texteditor)
 2. [Markdown](https://emranaloul.github.io/reading-notes/markdown)
@@ -10,4 +10,4 @@
 1. [Javascript-loops](https://emranaloul.github.io/reading-notes/Javascripts.loops)
 1. [function-js](https://emranaloul.github.io/reading-notes/function-js)
 1. [CSS-Color](https://emranaloul.github.io/reading-notes/CSS-Color)
-1. [class-01](https://emranaloul.github.io/reading-notes/class-01)
+1. [Code-201-Reading-Notes](https://emranaloul.github.io/reading-notes/Code-201-Reading-Notes)
