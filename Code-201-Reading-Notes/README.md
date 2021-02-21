@@ -6,7 +6,7 @@
 1. [Class-04](https://emranaloul.github.io/reading-notes/class-04)
 1. [Class-05](https://emranaloul.github.io/reading-notes/class-05)
 1. [Class-06](https://emranaloul.github.io/reading-notes/class-06)
-1. 
+1. [Class-07](https://emranaloul.github.io/reading-notes/class-07)
 1. 
 1. 
 1. 
