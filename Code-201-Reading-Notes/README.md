@@ -8,7 +8,7 @@
 1. [Class-06](https://emranaloul.github.io/reading-notes/class-06)
 1. [Class-07](https://emranaloul.github.io/reading-notes/class-07)
 1. [Class-08](https://emranaloul.github.io/reading-notes/class-08)
-1. 
+1. [Class-09](https://emranaloul.github.io/reading-notes/class-09)
 1. 
 1. 
 1. 
