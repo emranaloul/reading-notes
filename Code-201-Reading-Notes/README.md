@@ -9,9 +9,9 @@
 1. [Class-07](https://emranaloul.github.io/reading-notes/class-07)
 1. [Class-08](https://emranaloul.github.io/reading-notes/class-08)
 1. [Class-09](https://emranaloul.github.io/reading-notes/Class-09)
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
+1. [Class-10](https://emranaloul.github.io/creading-notes/class-10)
+1. [Class-11](https://emranaloul.github.io/creading-notes/class-11)
+1. [Class-12](https://emranaloul.github.io/creading-notes/class-12)
+1. [Class-13](https://emranaloul.github.io/creading-notes/class-13)
+1. [Class-14](https://emranaloul.github.io/creading-notes/class-14)
+1. [Class-15](https://emranaloul.github.io/creading-notes/class-15)
