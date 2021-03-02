@@ -13,5 +13,5 @@
 1. [Class-11](https://emranaloul.github.io/reading-notes/class-11)
 1. [Class-12](https://emranaloul.github.io/reading-notes/class-12)
 1. [Class-13](https://emranaloul.github.io/reading-notes/class-13)
-1. [Class-14](https://emranaloul.github.io/reading-notes/class-14)
-1. [Class-15](https://emranaloul.github.io/reading-notes/class-15)
+1. [Class-14a](https://emranaloul.github.io/reading-notes/class-14a)
+1. [Class-14b](https://emranaloul.github.io/reading-notes/class-14b)
