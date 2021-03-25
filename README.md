@@ -1,13 +1,7 @@
 
-# Code 102 Reading Notes
+# Main Page
 
-1. [Text-Editor](https://emranaloul.github.io/reading-notes/texteditor)
-2. [Markdown](https://emranaloul.github.io/reading-notes/markdown)
-3. [Git-Intro](https://emranaloul.github.io/reading-notes/git-intro)
-4. [Growth-mindest](https://emranaloul.github.io/reading-notes/growth-mindest)
-1. [HTML](https://emranaloul.github.io/reading-notes/HTMl)
-1. [Javascript](https://emranaloul.github.io/reading-notes/Javascipt)
-1. [Javascript-loops](https://emranaloul.github.io/reading-notes/Javascripts.loops)
-1. [function-js](https://emranaloul.github.io/reading-notes/function-js)
-1. [CSS-Color](https://emranaloul.github.io/reading-notes/CSS-Color)
-1. [Code-201-Reading-Notes](https://emranaloul.github.io/reading-notes/Code-201-Reading-Notes)
+1. [Code 102 - Intro to Software Development](https://emranaloul.github.io/reading-notes/102)
+1. [Code 201 - Foundations of Software Development](https://emranaloul.github.io/reading-notes/Code-201-Reading-Notes)
+1. [Code 301 - Intermediate Software Development](https://emranaloul.github.io/reading-notes/301)
+4. [Code 401 - Advanced Software Development](https://emranaloul.github.io/reading-notes/401)
