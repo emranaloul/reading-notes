@@ -4,3 +4,4 @@
 1. [Templating with Mustache & Flexbox](https://emranaloul.github.io/reading-notes/301-class03)
 1.  [Responsive Web Design and Regular Expressions](https://emranaloul.github.io/reading-notes/301-class04)
 1. [Heroku and Node.js](https://emranaloul.github.io/reading-notes/301-class05)
+1. [Node.js](https://emranaloul.github.io/reading-notes/301-class06)
