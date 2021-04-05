@@ -6,3 +6,4 @@
 1. [Heroku and Node.js](https://emranaloul.github.io/reading-notes/301-class05)
 1. [Node.js](https://emranaloul.github.io/reading-notes/301-class06)
 1. [Google Teams](https://emranaloul.github.io/reading-notes/301-class07)
+1. [SQL](https://emranaloul.github.io/reading-notes/301-class08)
