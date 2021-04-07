@@ -8,3 +8,4 @@
 1. [Google Teams](https://emranaloul.github.io/reading-notes/301-class07)
 1. [SQL](https://emranaloul.github.io/reading-notes/301-class08)
 1. [Refactoring & functional programming](https://emranaloul.github.io/reading-notes/301-class09)
+1. [Call Stack](https://emranaloul.github.io/reading-notes/301-class10)
