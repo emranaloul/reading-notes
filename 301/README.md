@@ -10,3 +10,4 @@
 1. [Refactoring & functional programming](https://emranaloul.github.io/reading-notes/301-class09)
 1. [Call Stack](https://emranaloul.github.io/reading-notes/301-class10)
 1. [EJS](https://emranaloul.github.io/reading-notes/301-class11)
+1. [EJS Partial](https://emranaloul.github.io/reading-notes/301-class12)
