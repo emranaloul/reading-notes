@@ -13,3 +13,4 @@
 1. [EJS Partial](https://emranaloul.github.io/reading-notes/301-class12)
 1. [Client Side](https://emranaloul.github.io/reading-notes/301-class13)
 1. [DATABASE NORMALIZATION](https://emranaloul.github.io/reading-notes/301-class14a)
+1. [DIVERSITY AND INCLUSION](https://emranaloul.github.io/reading-notes/301-class15)
