@@ -5,3 +5,4 @@
 1. [Data Modeling](https://emranaloul.github.io/reading-notes/401/401-class04)
 1. [Linked Lists](https://emranaloul.github.io/reading-notes/401/401-class05)
 1. [Authentication](https://emranaloul.github.io/reading-notes/401/401-class06)
+1. [Bearer Authorization](https://emranaloul.github.io/reading-notes/401/401-class07)
