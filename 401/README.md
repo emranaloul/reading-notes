@@ -6,3 +6,4 @@
 1. [Linked Lists](https://emranaloul.github.io/reading-notes/401/401-class05)
 1. [Authentication](https://emranaloul.github.io/reading-notes/401/401-class06)
 1. [Bearer Authorization](https://emranaloul.github.io/reading-notes/401/401-class07)
+1. [Access Control (ACL)](https://emranaloul.github.io/reading-notes/401/401-class08)
