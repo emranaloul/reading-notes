@@ -8,3 +8,4 @@
 1. [Bearer Authorization](https://emranaloul.github.io/reading-notes/401/401-class07)
 1. [Access Control (ACL)](https://emranaloul.github.io/reading-notes/401/401-class08)
 1. [Stacks and Queues](https://emranaloul.github.io/reading-notes/401/401-Stacks-and-Queues)
+1. [OAuth](https://emranaloul.github.io/reading-notes/401/401-class09)
