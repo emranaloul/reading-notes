@@ -16,5 +16,6 @@
 1. [AWS: Cloud Servers](https://emranaloul.github.io/reading-notes/401/401-class16)
 1. [AWS: S3 and Lambda](https://emranaloul.github.io/reading-notes/401/401-class17)
 1. [AWS: API, Dynamo and Lambda](https://emranaloul.github.io/reading-notes/401/401-class18)
+1. [AWS: Events](https://emranaloul.github.io/reading-notes/401/401-class19)
 
 
