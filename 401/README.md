@@ -18,5 +18,6 @@
 1. [AWS: API, Dynamo and Lambda](https://emranaloul.github.io/reading-notes/401/401-class18)
 1. [AWS: Events](https://emranaloul.github.io/reading-notes/401/401-class19)
 1. [Component Based UI](https://emranaloul.github.io/reading-notes/401/401-class26)
+1. [Props and State](https://emranaloul.github.io/reading-notes/401/401-class27)
 
 
