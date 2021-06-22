@@ -20,5 +20,7 @@
 1. [Component Based UI](https://emranaloul.github.io/reading-notes/401/401-class26)
 1. [Props and State](https://emranaloul.github.io/reading-notes/401/401-class27)
 1. [Component Composition](https://emranaloul.github.io/reading-notes/401/401-class28)
+1. [Routing](https://emranaloul.github.io/reading-notes/401/401-class29)
+
 
 
