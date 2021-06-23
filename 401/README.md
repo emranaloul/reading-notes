@@ -21,6 +21,7 @@
 1. [Props and State](https://emranaloul.github.io/reading-notes/401/401-class27)
 1. [Component Composition](https://emranaloul.github.io/reading-notes/401/401-class28)
 1. [Routing](https://emranaloul.github.io/reading-notes/401/401-class29)
+1. [Hashtables](https://emranaloul.github.io/reading-notes/401/401-class30)
 
 
 
