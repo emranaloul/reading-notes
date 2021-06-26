@@ -22,6 +22,8 @@
 1. [Component Composition](https://emranaloul.github.io/reading-notes/401/401-class28)
 1. [Routing](https://emranaloul.github.io/reading-notes/401/401-class29)
 1. [Hashtables](https://emranaloul.github.io/reading-notes/401/401-class30)
+1. [Hooks API](https://emranaloul.github.io/reading-notes/401/401-class31)
+
 
 
 
