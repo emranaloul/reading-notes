@@ -25,6 +25,7 @@
 1. [Hooks API](https://emranaloul.github.io/reading-notes/401/401-class31)
 1. [Custom Hooks](https://emranaloul.github.io/reading-notes/401/401-class32)
 1. [Context API](https://emranaloul.github.io/reading-notes/401/401-class33)
+1. [<Login /> and <Auth />](https://emranaloul.github.io/reading-notes/401/401-class34)
 
 
 
