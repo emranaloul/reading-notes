@@ -27,7 +27,8 @@
 1. [Context API](https://emranaloul.github.io/reading-notes/401/401-class33)
 1. [`<Login />` and `<Auth />`](https://emranaloul.github.io/reading-notes/401/401-class34)
 1. [Graphs](https://emranaloul.github.io/reading-notes/401/401-class35)
-1. [ Application State with Redux](https://emranaloul.github.io/reading-notes/401/401-class36)
+1. [Application State with Redux](https://emranaloul.github.io/reading-notes/401/401-class36)
+1. [Redux - Combined Reducers](https://emranaloul.github.io/reading-notes/401/401-class37)
 
 
 
