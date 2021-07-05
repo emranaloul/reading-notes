@@ -29,6 +29,8 @@
 1. [Graphs](https://emranaloul.github.io/reading-notes/401/401-class35)
 1. [Application State with Redux](https://emranaloul.github.io/reading-notes/401/401-class36)
 1. [Redux - Combined Reducers](https://emranaloul.github.io/reading-notes/401/401-class37)
+1. [Redux - Asynchronous Actions](https://emranaloul.github.io/reading-notes/401/401-class38)
+
 
 
 
