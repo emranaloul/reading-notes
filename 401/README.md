@@ -31,7 +31,7 @@
 1. [Redux - Combined Reducers](https://emranaloul.github.io/reading-notes/401/401-class37)
 1. [Redux - Asynchronous Actions](https://emranaloul.github.io/reading-notes/401/401-class38)
 1. [Redux - Additional Topics](https://emranaloul.github.io/reading-notes/401/401-class39)
-1. [Redux - Additional Topics](https://emranaloul.github.io/reading-notes/401/401-class41)
+1. [React Native](https://emranaloul.github.io/reading-notes/401/401-class41)
 
 
 
